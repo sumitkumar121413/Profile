@@ -1,0 +1,231 @@
+body{
+  text-align: center;
+  margin: 0%;
+  font-family: 'Merriweather',Comic Sans MS, Helvetica, sans-serif sans-serif;
+
+}
+
+.Intro{
+  width: 95rem;
+  height: 40rem;
+     background-color: #E4F9f5;
+    padding: 5%;
+}
+.hi{
+  align-self: center;
+  font-family: "Calisto MT", Helvetica, sans-serif;
+  margin-bottom: 0%;
+  margin-top: 10%;
+  font-size: 6rem;
+  color: #4C3A51;
+}
+
+.myname 
+{
+  font-family: "Calisto MT", Helvetica, sans-serif;
+  margin-bottom: 0%;
+  margin-top: 0%;
+  font-size: 6rem;
+  color: #F47C7C;
+
+}
+.designation{
+  font-family: "Calisto MT", Helvetica, sans-serif;
+  margin-bottom: 0%;
+  margin-top: 0%;
+  font-size: 2rem;
+  color: #423031;
+}
+
+.mountain{
+  float:right;
+  width: auto;
+  height: auto;
+}
+
+.div2{
+  
+  width: 95rem;
+  height: 40rem;
+     background-color: #E4F9f5;
+    padding: 5%;
+    margin-top: 2rem;
+}
+
+.profileimage
+{ 
+    float:left;
+    width: 15rem;
+    height: auto;
+    margin: 5%;
+  
+}
+
+
+.aboutme{
+  justify-content: right;
+  font-family: "Calisto MT", Helvetica, sans-serif;
+  margin-bottom: 5%;
+  margin-top: 5%;
+  font-size: 5rem;
+  color: #F77E21;
+}
+
+.college{
+  font-family: "Calisto MT", Helvetica, sans-serif;
+  margin-bottom: 0%;
+  margin-top: 1rem;
+  font-size: 2rem;
+  color: #423031;
+}
+
+.div3{ width: 95rem;
+  height: 40rem;
+     background-color: #E4F9f5;
+    padding: 5%;
+    margin-top: 2rem;
+}
+
+.skill{
+  text-align: left;
+  font-family: "Calisto MT", Helvetica, sans-serif;
+  margin-bottom: 0%;
+  margin-top: 0%;
+  margin-left: 5rem;
+  font-size: 6rem;
+  color: #F77E21;
+}
+
+.skillpic1{
+  width: 10rem;
+  height: auto;
+  margin-left: 40rem;
+  display: inline-block;
+}
+
+.skillpic2{
+  
+  width: 10rem;
+  height: auto;
+  margin-left: 10rem;
+  display: inline-block;
+}
+
+.skillpic3{
+  
+  width: 10rem;
+  height: auto;
+  margin-left: 40rem;
+  display: inline-block;
+}
+
+.skillpic4{
+  
+  width: 10rem;
+  height: auto;
+ margin-left: 10rem;
+  display: inline-block;
+}
+
+
+.div4{
+  width: 95rem;
+  height: 40rem;
+  font-family: "Calisto MT", Helvetica, sans-serif;
+  color: #4C3A51;
+  background-color: #E4F9f5;
+  padding: 5%;
+  margin-top: 2rem;
+}
+
+.hobbies{
+  text-align: right;
+  font-family: "Calisto MT", Helvetica, sans-serif;
+  margin-bottom: 0%;
+  margin-top: 0%;
+  margin-left: 20rem;
+  font-size: 6rem;
+  color: #F77E21;
+  display: inline-block;
+}
+
+.hobby{
+  
+  width: 15rem;
+  height: 10rem;
+  margin-left: 5rem;
+  margin-right: 1rem;
+  margin-bottom: 1rem;
+  
+}
+
+
+.div5{
+  width: 95rem;
+  height: 40rem;
+     background-color: #E4F9f5;
+    margin-left: 0rem;
+    margin-top: 2rem;
+}
+
+.contactdiv1{
+  display: inline-block;
+  width: 30rem;
+  height: auto; 
+  justify-content: left;
+}
+
+.contactme{
+  font-family: "Calisto MT", Helvetica, sans-serif;
+  margin-bottom: 0%;
+  margin-top: 2rem;
+  padding-top: 10rem;
+  margin-left: 10rem;
+  font-size: 2rem;
+  color: #423031;
+}
+
+
+
+.linkedin{
+  width: 5rem;
+  height: auto;
+  margin-top: 5rem;
+  margin-left: 10rem;
+  margin-right: 1rem;
+  margin-bottom: 1rem;
+}
+
+.facebook{
+  width: 7rem;
+  height: auto;
+  margin-top: 5rem;
+  margin-left: 5rem;
+  margin-right: 1rem;
+  margin-bottom: 1rem;
+}
+
+.contactdiv2{
+  width: 30rem;
+  height: auto; 
+  margin-left: 30rem;
+  justify-content: right;
+  display: inline-block;
+}
+
+.contactdetails{
+  margin-top: 5rem;
+  text-align: left;
+  font-family: "Calisto MT", Helvetica, sans-serif;
+  font-size: 2rem;
+  color: #423031;
+  padding-top: 5rem;
+}
+
+.smalldetail{
+   margin-top: 2.5rem;
+  text-align: left;
+  font-family: "Calisto MT", Helvetica, sans-serif;
+  font-size: 1.5rem;
+  color: #423031;
+}
